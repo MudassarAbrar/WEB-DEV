@@ -1,0 +1,3 @@
+IN CMD TYPE:
+   git clone <url> (url of the repo you want to clone )
+    

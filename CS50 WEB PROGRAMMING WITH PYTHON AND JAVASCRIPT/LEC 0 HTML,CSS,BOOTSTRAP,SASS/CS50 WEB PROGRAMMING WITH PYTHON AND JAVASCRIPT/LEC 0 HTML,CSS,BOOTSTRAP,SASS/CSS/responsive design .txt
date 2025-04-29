@@ -1,0 +1,13 @@
+-----------------view port-----------
+
+visual part of screen
+
+<meta name = "viewport" content="width=device-width, initial-scale=1.0">
+this tell the device either a mobile phone or a pc screen to render the 
+web page according to the device dimensions
+render=to display
+
+------------media query----------
+
+
+
